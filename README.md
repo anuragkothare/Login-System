@@ -6,5 +6,5 @@ This is a fully responsive user login and registration app using Node.js, Expres
 
 Loginapp requires Node.js v4+ to run.
 
-'''  $ npm install '''
-'''  $ npm start '''
+```  $ npm install ```
+```  $ npm start ```
